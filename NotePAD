@@ -1,0 +1,67 @@
+Criar app para atualizar atendimentos do controle de manutenção EQS
+
+Cabeçalho Controle de Manutenção e seus indices:
+
+[0]Placa
+[1]Mot. Atend.
+[2]Nº Atend.
+[3]Status Movida
+[4]Prev. Conclusão
+[5]Ent. Oficina
+[6]Ent. Orçamento
+[7]SLA
+[8]Ult. Atual.
+[9]Veiculo - Modelo
+[10]Fornecedor - Razão Social
+[11]Data/Hora
+[12]Abertura Atendimento
+[13]Veic. Pronto
+[14]CalcOfic
+[15]CalcParad
+[16]Parad. Ofic.
+[17]Dias Parado
+
+Cabeçalho Planilha Movida
+
+[0]Nº Atendimento
+[1]Canal
+[2]Nº OS
+[3]Status Atendimento
+[4]Veiculo - Placa
+[5]InteresseCompra
+[6]KMAnterior
+[7]KMAtual
+[8]Veiculo - Chassi
+[9]Veiculo - Frota
+[10]Veiculo - Modelo
+[11]Veiculo - Marca
+[12]Cliente - Razão Social
+[13]Cliente - CNPJ/CPF
+[14]Segmento Placa
+[15]Tipo do veículo
+[16]Centro de Custo
+[17]ContratoNro
+[18]Fornecedor - CNPJ
+[19]Fornecedor - Código
+[20]Fornecedor - Razão Social
+[21]Fornecedor - Cidade
+[22]Fornecedor - UF
+[23]Fornecedor - Região
+[24]Fornecedor - Ramo
+[25]Fornecedor - Restricao Financeira
+[26]Atendimento Bloqueado
+[27]Data/Hora Abertura Atendimento
+[28]Data/Hora Entrada em Oficina
+[29]Data/Hora Agendamento
+[30]Data/Hora Reagendamento
+[31]Data/Hora Previsão de Entrega
+[32]Data/Hora Conclusão
+[33]Data/Hora Saída Oficina
+[34]Motivo Atendimento
+[35]Tipo Placa
+[36]Observações
+[37]Envolvimento de Terceiros
+[38]Atendente SAC
+[39]Sem Parar
+[40]Cartão Combustível
+
